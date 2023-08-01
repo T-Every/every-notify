@@ -29,8 +29,6 @@
 
 - ✅ **Customizable**
 
----
-
 ## Intallation
 
 yarn
