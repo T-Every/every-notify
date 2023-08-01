@@ -1,7 +1,8 @@
 # Teneric-components
 
-`````<img alt="teneric-components" src="https://i.imgur.com/JhR3VcJ.png"/>```````![NPM Version](https://badgen.net/npm/v/@t-every/teneric-components)
-    ![minzipped size](https://badgen.net/bundlephobia/minzip/@t-every/teneric-components)
+``````<img alt="teneric-components" src="https://i.imgur.com/JhR3VcJ.png"/>````````
+
+    ![NPM Version](https://badgen.net/npm/v/@t-every/teneric-components)  ![minzipped size](https://badgen.net/bundlephobia/minzip/@t-every/teneric-components)
 
 <br />
 <div align="center">
