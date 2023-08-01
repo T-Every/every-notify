@@ -29,7 +29,9 @@
 
 - ✅ **Customizable**
 
-## Intallation
+---
+
+## Installation
 
 yarn
 
