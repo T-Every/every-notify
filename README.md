@@ -1,8 +1,20 @@
-# Teneric-components
+# every-notify
 
-``````<img alt="teneric-components" src="https://i.imgur.com/JhR3VcJ.png"/>````````
+ `````````<img alt="teneric-components" src="https://i.imgur.com/JhR3VcJ.png"/>``````````
 
-    ![NPM Version](https://badgen.net/npm/v/@t-every/teneric-components)  ![minzipped size](https://badgen.net/bundlephobia/minzip/@t-every/teneric-components)
+<div align="center">
+    <img src="https://badgen.net/npm/v/@t-every/teneric-components" alt="NPM Version" />
+    <img src="https://badgen.net/bundlephobia/minzip/@t-every/teneric-components" alt="minzipped size"/>
+</div>
+<br />
+<div align="center"><strong>A T-Every library.</strong></div>
+<div align="center">Easy to use, customizable.</div>
+<br />
+<div align="center">
+<a href="#">Website</a> 
+<span> · </span>
+<a href="#">Documentation</a> 
+</div>
 
 <br />
 <div align="center">
@@ -11,7 +23,7 @@
 
 <br />
 
-#### This project used [react-hot-toast](https://github.com/timolins/react-hot-toast) for inspiration
+##### This project used [react-hot-toast](https://github.com/timolins/react-hot-toast) for inspiration
 
 ## Features
 
