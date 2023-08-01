@@ -1,6 +1,6 @@
 # every-notify
 
-```<img alt="teneric-components" src="https://i.imgur.com/JhR3VcJ.png"/>```
+<img alt="teneric-components" src="https://i.imgur.com/JhR3VcJ.png"/>
 
 <div align="center">
     <img src="https://badgen.net/npm/v/@t-every/teneric-components" alt="NPM Version" />
