@@ -28,3 +28,23 @@
 ## Features
 
 - ✅ **Customizable**
+
+---
+
+## Intallation
+
+yarn
+
+```yarn
+yarn add every-notify
+```
+
+npm
+
+```
+npm install every-notify
+```
+
+## Getting Started
+
+soon...
